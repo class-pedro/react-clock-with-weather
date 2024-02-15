@@ -1,0 +1,12 @@
+.moon__icon {
+    margin-top: 8px;
+}
+
+.sun__icon {
+    margin-top: 8px;
+    display: none;
+}
+
+.d__none {
+    display: none;
+}
